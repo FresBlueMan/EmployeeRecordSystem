@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  EmployeeRecordSystem.cpp
+i:\freelancer_projects\1st_cproject\employeerecordsystem\employeerecordsystem\employeerecordsystem.cpp(87): warning C4013: 'gets' undefined; assuming extern returning int
+  EmployeeRecordSystem.vcxproj -> I:\Freelancer_Projects\1st_Cproject\EmployeeRecordSystem\Debug\EmployeeRecordSystem.exe
+  EmployeeRecordSystem.vcxproj -> I:\Freelancer_Projects\1st_Cproject\EmployeeRecordSystem\Debug\EmployeeRecordSystem.pdb (Full PDB)
