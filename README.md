@@ -1,0 +1,2 @@
+# EmployeeRecordSystem
+The employee record system is very simple and for very beginner mini project. It is based one the menu-driven program for elementary database management. It employs all the basic technique of file handling in C. It consists of following features Writing the data in binary file Reading the data from binary file Modify the record Delete the record This project is a learning milestone for a beginner who wants to step into the database management project in C.
